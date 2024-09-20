@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Farlyhaydy H.Djalil and I'm a student who focuses on full stack web development from indonesia</h2>
+<h2 align="left">Hi 👋! My name is Farlyhaydy H.Djalil and I'm a student who focuses on web development from indonesia</h2>
 
 ###
 
